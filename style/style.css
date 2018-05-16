@@ -1,16 +1,8 @@
-<<<<<<< HEAD
 body {
+	display: none;
 	color: green;
 }
 
 img {
 	height: 100px;
-=======
-body {
-	color: green;
-}
-
-img {
-	height: 100px;
->>>>>>> 93b7714d972b309574c2489094550887f7f29cd4
 }
