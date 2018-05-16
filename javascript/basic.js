@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $("#div2").fadeIn("slow");
+    $(".all").fadeIn("slow");
 });
